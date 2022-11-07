@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.9a1a0608.css","mappings":"AAAA,WACE,iBACF,CACA,WACE,aACF","sources":["App.css"],"sourcesContent":[".centerAll {\n  text-align: center;\n}\n.container {\n  margin: 0 auto;\n}\n"],"names":[],"sourceRoot":""}
